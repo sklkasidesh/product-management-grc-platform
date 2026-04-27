@@ -1,0 +1,21 @@
+# OS
+.DS_Store
+Thumbs.db
+
+# Editors / IDEs
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Claude Code session memory
+.omc/
+.claude/
+.cursor/
+
+# Local plan drafts (uncomment if you want plans/ to stay local)
+# plans/*.md
+# !plans/README.md
+
+# Misc
+*.log

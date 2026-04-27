@@ -12,7 +12,7 @@ _Define the overarching product vision and how each epic contributes to it._
 | --- | ------------------------------- | ------------------- | -------------- | -------------- |
 | 001 | [Authentication](001-authenticate.md) | SKL-001             | 🟡 In Progress | —              |
 | 002 | Authorization                   | —                   | ⚪ Not Started  | —              |
-| 003 | Authorization                   | —                   | ⚪ Not Started  | —              |
+| 003 | Audit Trail                     | —                   | ⚪ Not Started  | —              |
 
 ### Status Legend
 
